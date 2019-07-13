@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Korisnici>
+
+
+
+<Korisnik>
+	<Ime>Ivan</Ime>
+	<Prezime>Ivić</Prezime>
+	<KorisnickoIme>student</KorisnickoIme>
+	<Lozinka>12345</Lozinka>
+</Korisnik>
+<Korisnik>
+	<Ime>Mario</Ime>
+	<Prezime>Marić</Prezime>
+	<KorisnickoIme>profesor</KorisnickoIme>
+	<Lozinka>54321</Lozinka>
+</Korisnik>
+
+<Korisnik><Ime>Matko</Ime><Prezime>Matić</Prezime><KorisnickoIme>student2</KorisnickoIme><Lozinka>12345</Lozinka></Korisnik><Korisnik><Ime>Matko</Ime><Prezime>Matić</Prezime><KorisnickoIme>student2</KorisnickoIme><Lozinka>12345</Lozinka></Korisnik>
+
+<Korisnik><Ime>Luka</Ime><Prezime>Lukić</Prezime><KorisnickoIme>student3</KorisnickoIme><Lozinka>12345</Lozinka></Korisnik></Korisnici>
